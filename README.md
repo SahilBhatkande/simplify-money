@@ -1,5 +1,3 @@
-<img width="1916" height="948" alt="Screenshot 2025-08-29 134939" src="https://github.com/user-attachments/assets/31beb81e-33ed-408c-bf63-8216d98859ef" /># Precious Metals App
-
 A React Native + Expo app that shows live prices for Gold, Silver, Platinum, and Palladium with a clean, scrollable UI and a detailed info screen for each metal.
 
 Demo : 
