@@ -2,6 +2,10 @@
 
 A React Native + Expo app that shows live prices for Gold, Silver, Platinum, and Palladium with a clean, scrollable UI and a detailed info screen for each metal.
 
+Demo : 
+![Uploading Screenshot 2025-08-29 134939.png…]()
+
+
 ## Quick Start
 
 1. Install dependencies
